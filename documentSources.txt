@@ -1,0 +1,2 @@
+glBindTexture : 載入紋理時，給當前的紋理分配相應的紋理號。其次載入多個紋理之後，此時也需要使用glBindTexture函數進行切換。
+glTexParameteri : 對單獨的一個坐標軸設置
